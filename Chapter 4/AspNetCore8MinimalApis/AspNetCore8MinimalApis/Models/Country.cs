@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.Reflection;
+using System.Text.Json;
 
 namespace AspNetCore8MinimalApis.Models;
 
@@ -23,4 +24,12 @@ public class Country
     /// The country flag URI
     /// </summary>
     public string FlagUri { get; set; }
+
+    public static ValueTask<Country> BindAsync(HttpContext context, ParameterInfo parameter)
+    {
+        var countryFromValue = context.Request.Form["Country"];
+        var result = JsonSerializer.Deserialize<Country>(countryFromValue);
+
+        return ValueTask.FromResult(result);
+    }
 }

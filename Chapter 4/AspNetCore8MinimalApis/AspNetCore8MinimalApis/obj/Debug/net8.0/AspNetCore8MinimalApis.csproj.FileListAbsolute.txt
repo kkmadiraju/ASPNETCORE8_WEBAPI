@@ -46,51 +46,90 @@ D:\Personal\Book\apis\_Source code\Chapter 1\AspNetCore8MinimalApis\AspNetCore8M
 D:\Personal\Book\apis\_Source code\Chapter 1\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.xml
 D:\Personal\Book\apis\_Source code\Chapter 1\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.xml
 D:\Personal\Book\apis\_Source code\Chapter 1\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\appsettings.Development.json
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\appsettings.json
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.exe
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\countries.csv
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\earth.mp4
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.deps.json
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.runtimeconfig.json
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.pdb
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.xml
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Asp.Versioning.Http.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\FluentValidation.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Microsoft.OpenApi.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\BLL.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Domain.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\BLL.pdb
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Domain.pdb
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.csproj.AssemblyReference.cache
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.GeneratedMSBuildEditorConfig.editorconfig
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.AssemblyInfoInputs.cache
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.AssemblyInfo.cs
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.csproj.CoreCompileInputs.cache
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.MvcApplicationPartsAssemblyInfo.cs
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.MvcApplicationPartsAssemblyInfo.cache
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets.build.json
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets.development.json
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets\msbuild.AspNetCore8MinimalApis.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets\msbuild.build.AspNetCore8MinimalApis.props
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AspNetCore8MinimalApis.props
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AspNetCore8MinimalApis.props
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\scopedcss\bundle\AspNetCore8MinimalApis.styles.css
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.csproj.CopyComplete
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\refint\AspNetCore8MinimalApis.dll
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.xml
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.pdb
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.genruntimeconfig.cache
-D:\Personal\Book\apis\_Source code\Chapter 4\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\ref\AspNetCore8MinimalApis.dll
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\appsettings.Development.json
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\appsettings.json
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.exe
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.deps.json
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.runtimeconfig.json
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.dll
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.pdb
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.xml
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\FluentValidation.dll
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\BLL.dll
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Domain.dll
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\BLL.pdb
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Domain.pdb
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.csproj.AssemblyReference.cache
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.AssemblyInfoInputs.cache
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.AssemblyInfo.cs
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.csproj.CoreCompileInputs.cache
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets.build.json
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets.development.json
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets\msbuild.AspNetCore8MinimalApis.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets\msbuild.build.AspNetCore8MinimalApis.props
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AspNetCore8MinimalApis.props
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AspNetCore8MinimalApis.props
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\scopedcss\bundle\AspNetCore8MinimalApis.styles.css
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.csproj.CopyComplete
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.dll
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\refint\AspNetCore8MinimalApis.dll
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.xml
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.pdb
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.genruntimeconfig.cache
+D:\Personal\Book\apis\_Source code\Chapter 2\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\ref\AspNetCore8MinimalApis.dll
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\appsettings.json
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.staticwebassets.endpoints.json
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.exe
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.deps.json
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.runtimeconfig.json
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.dll
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.pdb
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\AspNetCore8MinimalApis.xml
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\BLL.dll
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Domain.dll
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\BLL.pdb
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\bin\Debug\net8.0\Domain.pdb
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.csproj.AssemblyReference.cache
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.AssemblyInfoInputs.cache
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.AssemblyInfo.cs
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.csproj.CoreCompileInputs.cache
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.sourcelink.json
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\scopedcss\bundle\AspNetCore8MinimalApis.styles.css
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCo.B3316D5C.Up2Date
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.dll
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\refint\AspNetCore8MinimalApis.dll
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.xml
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.pdb
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\AspNetCore8MinimalApis.genruntimeconfig.cache
+C:\Users\kiran\Projects\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 5\AspNetCore8MinimalApis\AspNetCore8MinimalApis\obj\Debug\net8.0\ref\AspNetCore8MinimalApis.dll

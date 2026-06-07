@@ -1,74 +1,7 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net8.0": {
-      "Asp.Versioning.Abstractions/7.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Extensions.Primitives": "7.0.0"
-        },
-        "compile": {
-          "lib/net7.0/Asp.Versioning.Abstractions.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net7.0/Asp.Versioning.Abstractions.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      },
-      "Asp.Versioning.Http/7.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Asp.Versioning.Abstractions": "7.0.0"
-        },
-        "compile": {
-          "lib/net7.0/Asp.Versioning.Http.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net7.0/Asp.Versioning.Http.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
-      "Asp.Versioning.Mvc/7.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Asp.Versioning.Http": "7.0.0"
-        },
-        "compile": {
-          "lib/net7.0/Asp.Versioning.Mvc.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net7.0/Asp.Versioning.Mvc.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      },
-      "Asp.Versioning.Mvc.ApiExplorer/7.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Asp.Versioning.Mvc": "7.0.0"
-        },
-        "compile": {
-          "lib/net7.0/Asp.Versioning.Mvc.ApiExplorer.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net7.0/Asp.Versioning.Mvc.ApiExplorer.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      },
       "FluentValidation/11.6.0": {
         "type": "package",
         "compile": {
@@ -99,18 +32,18 @@
           }
         }
       },
-      "Microsoft.AspNetCore.OpenApi/8.0.0-preview.6.23329.11": {
+      "Microsoft.AspNetCore.OpenApi/7.0.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.OpenApi": "1.4.3"
         },
         "compile": {
-          "lib/net8.0/Microsoft.AspNetCore.OpenApi.dll": {
+          "lib/net7.0/Microsoft.AspNetCore.OpenApi.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net8.0/Microsoft.AspNetCore.OpenApi.dll": {
+          "lib/net7.0/Microsoft.AspNetCore.OpenApi.dll": {
             "related": ".xml"
           }
         },
@@ -285,22 +218,6 @@
           "build/Swashbuckle.AspNetCore.props": {}
         }
       },
-      "Swashbuckle.AspNetCore.Annotations/6.5.0": {
-        "type": "package",
-        "dependencies": {
-          "Swashbuckle.AspNetCore.SwaggerGen": "6.5.0"
-        },
-        "compile": {
-          "lib/net7.0/Swashbuckle.AspNetCore.Annotations.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net7.0/Swashbuckle.AspNetCore.Annotations.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      },
       "Swashbuckle.AspNetCore.Swagger/6.5.0": {
         "type": "package",
         "dependencies": {
@@ -379,80 +296,6 @@
     }
   },
   "libraries": {
-    "Asp.Versioning.Abstractions/7.0.0": {
-      "sha512": "yujGpbGBCViHvYiBJD0S5XFgOI+f5bGvi8tnfMJV6EC0b8SAqBn1YC+yCnJjQo3D2XP9TmSuKIJ7ofVy58GcuQ==",
-      "type": "package",
-      "path": "asp.versioning.abstractions/7.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "README.md",
-        "asp.versioning.abstractions.7.0.0.nupkg.sha512",
-        "asp.versioning.abstractions.nuspec",
-        "icon.png",
-        "lib/net7.0/Asp.Versioning.Abstractions.dll",
-        "lib/net7.0/Asp.Versioning.Abstractions.pdb",
-        "lib/net7.0/Asp.Versioning.Abstractions.xml",
-        "lib/netstandard1.0/Asp.Versioning.Abstractions.dll",
-        "lib/netstandard1.0/Asp.Versioning.Abstractions.pdb",
-        "lib/netstandard1.0/Asp.Versioning.Abstractions.xml",
-        "lib/netstandard2.0/Asp.Versioning.Abstractions.dll",
-        "lib/netstandard2.0/Asp.Versioning.Abstractions.pdb",
-        "lib/netstandard2.0/Asp.Versioning.Abstractions.xml"
-      ]
-    },
-    "Asp.Versioning.Http/7.0.0": {
-      "sha512": "FG5grz29CYBT06xDWoM1hf+pfB7sPDYXuOOIYtVNIHduUQeWsxMfCITcDrMmZNXAf0TfcYRwCizJfOIJzWmaXA==",
-      "type": "package",
-      "path": "asp.versioning.http/7.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "README.md",
-        "asp.versioning.http.7.0.0.nupkg.sha512",
-        "asp.versioning.http.nuspec",
-        "icon.png",
-        "lib/net7.0/Asp.Versioning.Http.dll",
-        "lib/net7.0/Asp.Versioning.Http.pdb",
-        "lib/net7.0/Asp.Versioning.Http.xml"
-      ]
-    },
-    "Asp.Versioning.Mvc/7.0.0": {
-      "sha512": "wcaXjeBLbDcSXLXtEJrVPXd8amRuINd/7SNYwMRrwwzQi6QMeJXqFZrFM+Bs4Tmd1C5pXBT51wedFG+zbN7Mzw==",
-      "type": "package",
-      "path": "asp.versioning.mvc/7.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "README.md",
-        "asp.versioning.mvc.7.0.0.nupkg.sha512",
-        "asp.versioning.mvc.nuspec",
-        "icon.png",
-        "lib/net7.0/Asp.Versioning.Mvc.dll",
-        "lib/net7.0/Asp.Versioning.Mvc.pdb",
-        "lib/net7.0/Asp.Versioning.Mvc.xml"
-      ]
-    },
-    "Asp.Versioning.Mvc.ApiExplorer/7.0.0": {
-      "sha512": "eN3Htqa+CWtzTGuOQZsoMJtcTf85ng+5Fg1NJjrCcGfgTB2BA946b3F7eUuo0sPFAQNcKP1cO5VxcO9WiqbmCA==",
-      "type": "package",
-      "path": "asp.versioning.mvc.apiexplorer/7.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "README.md",
-        "asp.versioning.mvc.apiexplorer.7.0.0.nupkg.sha512",
-        "asp.versioning.mvc.apiexplorer.nuspec",
-        "icon.png",
-        "lib/net7.0/Asp.Versioning.Mvc.ApiExplorer.dll",
-        "lib/net7.0/Asp.Versioning.Mvc.ApiExplorer.pdb",
-        "lib/net7.0/Asp.Versioning.Mvc.ApiExplorer.xml"
-      ]
-    },
     "FluentValidation/11.6.0": {
       "sha512": "DWKd0jHA33d7BXVWytSoN5Oafj9nYuiLUyyFoaUboOZZiaN5tlXdcJpkRbmrrWBUTWdSxjTwIoyUs38KSU/7OQ==",
       "type": "package",
@@ -493,18 +336,18 @@
         "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.xml"
       ]
     },
-    "Microsoft.AspNetCore.OpenApi/8.0.0-preview.6.23329.11": {
-      "sha512": "Fpj1vj2xIlDsoj91wHzUo7vpvsZYQJcLceiBtvrAxyuEeAMY95g/KGWV9JFQd+043S9o+Ay7AopHgJ8H+m0R3g==",
+    "Microsoft.AspNetCore.OpenApi/7.0.0": {
+      "sha512": "P1mkNhZ3IwU3phNLIUkgqVXb1exnooTalIYwpSON3oKKkcRtACDgS4WpO+xnwFw4KzV0bmgkUqB3acXxIefvvg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.openapi/8.0.0-preview.6.23329.11",
+      "path": "microsoft.aspnetcore.openapi/7.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "THIRD-PARTY-NOTICES.TXT",
-        "lib/net8.0/Microsoft.AspNetCore.OpenApi.dll",
-        "lib/net8.0/Microsoft.AspNetCore.OpenApi.xml",
-        "microsoft.aspnetcore.openapi.8.0.0-preview.6.23329.11.nupkg.sha512",
+        "lib/net7.0/Microsoft.AspNetCore.OpenApi.dll",
+        "lib/net7.0/Microsoft.AspNetCore.OpenApi.xml",
+        "microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
         "microsoft.aspnetcore.openapi.nuspec"
       ]
     },
@@ -1005,32 +848,6 @@
         "swashbuckle.aspnetcore.nuspec"
       ]
     },
-    "Swashbuckle.AspNetCore.Annotations/6.5.0": {
-      "sha512": "EcHd1z2pEdnpaBMTI9qjVxk6mFVGVMZ1n0ySC3fjrkXCQQ8O9fMdt9TxPJRKyjiTiTjvO9700jKjmyl+hPBinQ==",
-      "type": "package",
-      "path": "swashbuckle.aspnetcore.annotations/6.5.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net5.0/Swashbuckle.AspNetCore.Annotations.dll",
-        "lib/net5.0/Swashbuckle.AspNetCore.Annotations.pdb",
-        "lib/net5.0/Swashbuckle.AspNetCore.Annotations.xml",
-        "lib/net6.0/Swashbuckle.AspNetCore.Annotations.dll",
-        "lib/net6.0/Swashbuckle.AspNetCore.Annotations.pdb",
-        "lib/net6.0/Swashbuckle.AspNetCore.Annotations.xml",
-        "lib/net7.0/Swashbuckle.AspNetCore.Annotations.dll",
-        "lib/net7.0/Swashbuckle.AspNetCore.Annotations.pdb",
-        "lib/net7.0/Swashbuckle.AspNetCore.Annotations.xml",
-        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Annotations.dll",
-        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Annotations.pdb",
-        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Annotations.xml",
-        "lib/netstandard2.0/Swashbuckle.AspNetCore.Annotations.dll",
-        "lib/netstandard2.0/Swashbuckle.AspNetCore.Annotations.pdb",
-        "lib/netstandard2.0/Swashbuckle.AspNetCore.Annotations.xml",
-        "swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
-        "swashbuckle.aspnetcore.annotations.nuspec"
-      ]
-    },
     "Swashbuckle.AspNetCore.Swagger/6.5.0": {
       "sha512": "XWmCmqyFmoItXKFsQSwQbEAsjDKcxlNf1l+/Ki42hcb6LjKL8m5Db69OTvz5vLonMSRntYO1XLqz0OP+n3vKnA==",
       "type": "package",
@@ -1122,34 +939,31 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Asp.Versioning.Http >= 7.0.0",
-      "Asp.Versioning.Mvc.ApiExplorer >= 7.0.0",
       "BLL >= 1.0.0",
       "Domain >= 1.0.0",
       "FluentValidation.DependencyInjectionExtensions >= 11.6.0",
-      "Microsoft.AspNetCore.OpenApi >= 8.0.0-preview.6.23329.11",
-      "Swashbuckle.AspNetCore >= 6.5.0",
-      "Swashbuckle.AspNetCore.Annotations >= 6.5.0"
+      "Microsoft.AspNetCore.OpenApi >= 7.0.0",
+      "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\antho\\.nuget\\packages\\": {},
+    "C:\\Users\\kiran\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal\\Book\\apis\\_Source code\\Chapter 4\\AspNetCore8MinimalApis\\AspNetCore8MinimalApis\\AspNetCore8MinimalApis.csproj",
+      "projectUniqueName": "C:\\Users\\kiran\\Projects\\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\\Chapter 5\\AspNetCore8MinimalApis\\AspNetCore8MinimalApis\\AspNetCore8MinimalApis.csproj",
       "projectName": "AspNetCore8MinimalApis",
-      "projectPath": "D:\\Personal\\Book\\apis\\_Source code\\Chapter 4\\AspNetCore8MinimalApis\\AspNetCore8MinimalApis\\AspNetCore8MinimalApis.csproj",
-      "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal\\Book\\apis\\_Source code\\Chapter 4\\AspNetCore8MinimalApis\\AspNetCore8MinimalApis\\obj\\",
+      "projectPath": "C:\\Users\\kiran\\Projects\\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\\Chapter 5\\AspNetCore8MinimalApis\\AspNetCore8MinimalApis\\AspNetCore8MinimalApis.csproj",
+      "packagesPath": "C:\\Users\\kiran\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kiran\\Projects\\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\\Chapter 5\\AspNetCore8MinimalApis\\AspNetCore8MinimalApis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kiran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1157,18 +971,20 @@
         "net8.0"
       ],
       "sources": {
-        "c:\\program files\\dotnet\\library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Personal\\Book\\apis\\_Source code\\Chapter 4\\AspNetCore8MinimalApis\\BLL\\BLL.csproj": {
-              "projectPath": "D:\\Personal\\Book\\apis\\_Source code\\Chapter 4\\AspNetCore8MinimalApis\\BLL\\BLL.csproj"
+            "C:\\Users\\kiran\\Projects\\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\\Chapter 5\\AspNetCore8MinimalApis\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\kiran\\Projects\\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\\Chapter 5\\AspNetCore8MinimalApis\\BLL\\BLL.csproj"
             },
-            "D:\\Personal\\Book\\apis\\_Source code\\Chapter 4\\AspNetCore8MinimalApis\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Personal\\Book\\apis\\_Source code\\Chapter 4\\AspNetCore8MinimalApis\\Domain\\Domain.csproj"
+            "C:\\Users\\kiran\\Projects\\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\\Chapter 5\\AspNetCore8MinimalApis\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\kiran\\Projects\\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\\Chapter 5\\AspNetCore8MinimalApis\\Domain\\Domain.csproj"
             }
           }
         }
@@ -1179,34 +995,26 @@
         ]
       },
       "restoreAuditProperties": {
-        "enableAudit": "default"
-      }
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net8.0": {
+        "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
-          "Asp.Versioning.Http": {
-            "target": "Package",
-            "version": "[7.0.0, )"
-          },
-          "Asp.Versioning.Mvc.ApiExplorer": {
-            "target": "Package",
-            "version": "[7.0.0, )"
-          },
           "FluentValidation.DependencyInjectionExtensions": {
             "target": "Package",
             "version": "[11.6.0, )"
           },
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
-            "version": "[8.0.0-preview.6.23329.11, )"
+            "version": "[7.0.0, )"
           },
           "Swashbuckle.AspNetCore": {
-            "target": "Package",
-            "version": "[6.5.0, )"
-          },
-          "Swashbuckle.AspNetCore.Annotations": {
             "target": "Package",
             "version": "[6.5.0, )"
           }
@@ -1230,7 +1038,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.100-preview.7.23376.3\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
