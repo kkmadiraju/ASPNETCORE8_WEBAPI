@@ -27,7 +27,12 @@ public class Country
 
     public static ValueTask<Country> BindAsync(HttpContext context, ParameterInfo parameter)
     {
-        var countryFromValue = context.Request.Form["Country"];
+        var countryFromValue = context.Request.Form["Country"].ToString();
+        if (string.IsNullOrWhiteSpace(countryFromValue))
+        {
+            return ValueTask.FromResult<Country>(null);
+        }
+
         var result = JsonSerializer.Deserialize<Country>(countryFromValue);
 
         return ValueTask.FromResult(result);

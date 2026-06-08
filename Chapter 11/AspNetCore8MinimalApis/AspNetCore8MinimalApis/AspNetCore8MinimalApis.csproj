@@ -11,6 +11,10 @@
 		<NoWarn>$(NoWarn);1591</NoWarn>
 		<UserSecretsId>863bc4eb-e982-46b6-b084-0ab465614925</UserSecretsId>
 	</PropertyGroup>
+
+	<ItemGroup>
+	  <None Remove="Dockerfile" />
+	</ItemGroup>
 	
   <ItemGroup>
     <PackageReference Include="FluentAssertions" Version="6.12.0" />
@@ -19,6 +23,12 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0-preview.7.23375.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0-preview.7.23375.9" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.0-preview.7.23375.9" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="8.0.0-preview.7.23375.9" />
   </ItemGroup>
 
   <ItemGroup>
@@ -26,5 +36,6 @@
     <ProjectReference Include="..\Domain\Domain.csproj" />
     <ProjectReference Include="..\Infrastructure.SQL\Infrastructure.SQL.csproj" />
   </ItemGroup>
+  <!-- Identity files are included implicitly by SDK; no explicit compile include required -->
 
 </Project>

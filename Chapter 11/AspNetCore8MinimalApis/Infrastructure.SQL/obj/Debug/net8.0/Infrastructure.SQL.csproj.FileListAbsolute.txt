@@ -66,3 +66,21 @@ D:\Personal\Book\apis\_Source code\Chapter 11\AspNetCore8MinimalApis\Infrastruct
 D:\Personal\Book\apis\_Source code\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\Infrastructure.SQL.pdb
 D:\Personal\Book\apis\_Source code\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\Infrastructure.SQL.genruntimeconfig.cache
 D:\Personal\Book\apis\_Source code\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\ref\Infrastructure.SQL.dll
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\bin\Debug\net8.0\Infrastructure.SQL.deps.json
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\bin\Debug\net8.0\Infrastructure.SQL.runtimeconfig.json
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\bin\Debug\net8.0\Infrastructure.SQL.dll
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\bin\Debug\net8.0\Infrastructure.SQL.pdb
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\bin\Debug\net8.0\Domain.dll
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\bin\Debug\net8.0\Domain.pdb
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\Infrastructure.SQL.csproj.AssemblyReference.cache
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\Infrastructure.SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\Infrastructure.SQL.AssemblyInfoInputs.cache
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\Infrastructure.SQL.AssemblyInfo.cs
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\Infrastructure.SQL.csproj.CoreCompileInputs.cache
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\Infrastructure.SQL.sourcelink.json
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\Infrastr.8F642AC3.Up2Date
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\Infrastructure.SQL.dll
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\refint\Infrastructure.SQL.dll
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\Infrastructure.SQL.pdb
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\Infrastructure.SQL.genruntimeconfig.cache
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Infrastructure.SQL\obj\Debug\net8.0\ref\Infrastructure.SQL.dll

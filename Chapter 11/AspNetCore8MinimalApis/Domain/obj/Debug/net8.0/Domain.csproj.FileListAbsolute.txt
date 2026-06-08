@@ -69,3 +69,16 @@ D:\Personal\Book\apis\_Source code\Chapter 11\AspNetCore8MinimalApis\Domain\obj\
 D:\Personal\Book\apis\_Source code\Chapter 11\AspNetCore8MinimalApis\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Personal\Book\apis\_Source code\Chapter 11\AspNetCore8MinimalApis\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Personal\Book\apis\_Source code\Chapter 11\AspNetCore8MinimalApis\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Domain\bin\Debug\net8.0\Domain.dll
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Domain\obj\Debug\net8.0\Domain.dll
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\Domain\obj\Debug\net8.0\ref\Domain.dll

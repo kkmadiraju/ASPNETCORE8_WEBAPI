@@ -91,3 +91,19 @@ D:\Personal\Book\apis\_Source code\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Deb
 D:\Personal\Book\apis\_Source code\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Debug\net8.0\refint\BLL.dll
 D:\Personal\Book\apis\_Source code\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Debug\net8.0\BLL.pdb
 D:\Personal\Book\apis\_Source code\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\bin\Debug\net8.0\BLL.dll
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\bin\Debug\net8.0\Domain.dll
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\bin\Debug\net8.0\Domain.pdb
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Debug\net8.0\BLL.dll
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Projects\Raw\Apress-Robust-and-Resilient-APIs-with-ASP.NET-Core-8\Chapter 11\AspNetCore8MinimalApis\BLL\obj\Debug\net8.0\ref\BLL.dll

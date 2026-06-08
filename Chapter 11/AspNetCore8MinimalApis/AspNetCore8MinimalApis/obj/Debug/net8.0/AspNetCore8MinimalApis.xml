@@ -4,6 +4,34 @@
         <name>AspNetCore8MinimalApis</name>
     </assembly>
     <members>
+        <member name="M:AspNetCore8MinimalApis.Endpoints.CountryEndpoints.GetCountries(System.Nullable{System.Int32},System.Nullable{System.Int32},AspNetCore8MinimalApis.Mapping.Interfaces.ICountryMapper,Domain.Services.ICountryService)">
+            <summary>
+            Get a paged list of countries.
+            </summary>
+            <param name="pageIndex">Page number (1-based)</param>
+            <param name="pageSize">Items per page</param>
+            <returns>List of countries</returns>
+        </member>
+        <member name="M:AspNetCore8MinimalApis.Endpoints.CountryEndpoints.GetCountryById(System.Int32,AspNetCore8MinimalApis.Mapping.Interfaces.ICountryMapper,Domain.Services.ICountryService)">
+            <summary>
+            Get country by id
+            </summary>
+        </member>
+        <member name="M:AspNetCore8MinimalApis.Endpoints.CountryEndpoints.CreateCountry(AspNetCore8MinimalApis.Models.Country,AspNetCore8MinimalApis.Mapping.Interfaces.ICountryMapper,Domain.Services.ICountryService)">
+            <summary>
+            Create a new country
+            </summary>
+        </member>
+        <member name="M:AspNetCore8MinimalApis.Endpoints.CountryEndpoints.UpdateCountry(System.Int32,AspNetCore8MinimalApis.Models.Country,AspNetCore8MinimalApis.Mapping.Interfaces.ICountryMapper,Domain.Services.ICountryService)">
+            <summary>
+            Update an existing country
+            </summary>
+        </member>
+        <member name="M:AspNetCore8MinimalApis.Endpoints.CountryEndpoints.DeleteCountry(System.Int32,Domain.Services.ICountryService)">
+            <summary>
+            Delete a country by id
+            </summary>
+        </member>
         <member name="P:AspNetCore8MinimalApis.Models.Country.Id">
             <summary>
             The country Id
@@ -22,6 +50,11 @@
         <member name="P:AspNetCore8MinimalApis.Models.Country.FlagUri">
             <summary>
             The country flag URI
+            </summary>
+        </member>
+        <member name="T:AspNetCore8MinimalApis.Models.CountryModel">
+            <summary>
+            API model for Country
             </summary>
         </member>
     </members>
